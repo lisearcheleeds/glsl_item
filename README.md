@@ -1,3 +1,3 @@
 # GLSLSandbox
 見方
-https://github.jp.klab.com/pages/furuta-s/GLSLSandbox/raymarching/blitz2.html
+https://github.com/pages/LisetteLander/glsl_item/raymarching/blitz2.html
